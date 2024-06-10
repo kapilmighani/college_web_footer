@@ -1,0 +1,47 @@
+*{
+  margin: 0px;
+}
+.maindiv{
+  padding: 10px;
+  display: flex;
+  background-color: black;
+  width: 1250px;
+}
+.firstdiv{
+  width: 25%;
+  color: white;
+  padding-left: 10px;
+}
+.seconddiv{
+  color: white;
+  width: 25%;
+  padding-left: 20px;
+}
+.seconddiv a{
+  color: white;
+  text-decoration: none;
+}
+.thirddiv{
+  color: white;
+  width: 25%;
+}
+.thirddiv a{
+  color: white;
+  text-decoration: none;
+}
+.fourdiv{
+  width: 25%;
+  color: white;
+}
+.fourdiv a{
+  text-decoration: none;
+  color: white;
+}
+.h1{
+  height: 2px;
+  width:  200px;
+  background-color: green;
+}
+.space{
+  line-height: 30px;
+}
